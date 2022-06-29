@@ -27,6 +27,6 @@ https://www.foodandwine.com/desserts/cake/cakes
 ---
 My favorite restaurant cake is [Feel Good Cake](https://github.com/OmarQatt/my-restaurant "The best restaurant for a cake").
 
----
->![wireframe](wireframe.jpg)
+
+![wireframe](wireframe.jpg)
 
